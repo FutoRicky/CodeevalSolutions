@@ -1,7 +1,7 @@
 CodeevalSolutions
 =================
 
-My Codeeval Solutions(PYTHON)
+My Codeeval Solutions
 
 All code here is for educational purposes only. 
 It is not intended to be copied and pasted on codeeval challenges.
